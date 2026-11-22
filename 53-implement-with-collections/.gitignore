@@ -1,0 +1,4 @@
+buid/
+gradle/
+.gradle/
+*.class
