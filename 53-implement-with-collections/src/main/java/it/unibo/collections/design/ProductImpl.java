@@ -4,8 +4,8 @@ import it.unibo.collections.design.api.Product;
 
 public class ProductImpl implements Product{
     
-    private final String name;
-    private final double quantity;
+    protected  final String name;
+    protected  final double quantity;
 
     public ProductImpl(String name, double quantity){
         this.name = name;

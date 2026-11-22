@@ -1,4 +1,5 @@
-buid/
+build/
 gradle/
 .gradle/
 *.class
+bin/
